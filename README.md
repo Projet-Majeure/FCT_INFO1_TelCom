@@ -3,6 +3,7 @@ Lot 1
 
 
 Le lot suivant devra remplir les fonctionnalités suivantes:
+
 [FCT-INFO1-TelCom-Conn]:
 Connecter le robot à un serveur web
 [FCT-INFO1-TelCom-WebCmd]
